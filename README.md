@@ -3,7 +3,7 @@
 A little about me:
 
 - 🔭 I’m currently searching for opportunities out of Brazil.
-- 🌱 I’m currently learning more about React, Sass, Node and Typescript.
+- 🌱 I’m currently learning more about React, Dart, Sass, Node and Typescript.
 - 👯 I’m looking to collaborate on projects of Front-End and Web Design.
 - 💬 Ask me about full stack web design.
 - 📫 How to reach me: gabrielprousselet@gmail.com
