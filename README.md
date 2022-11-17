@@ -1,7 +1,7 @@
 # Olá, eu sou Gabriel Rousselet! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 <ul>
-  <li>👨‍💻 Me aprimorando em ReactJS, JavaScript, HTML, CSS, Bootstrap, TypeScript, Flutter/Dart.</li>
+  <li>👨‍💻 Me aprimorando em ReactJS, NextJS, TypeScript, HTML e SCSS.</li>
 </ul>
 
 
