@@ -1,9 +1,5 @@
 # Olá, eu sou Gabriel Rousselet! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-<ul>
-  <li>👨‍💻 Me aprimorando em ReactJS, NextJS, TypeScript, HTML e SCSS.</li>
-</ul>
-
 ## Redes Sociais:
 
 <a href="https://www.discordapp.com/users/312955363148169216" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
