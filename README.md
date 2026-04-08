@@ -4,14 +4,6 @@
   <li>👨‍💻 Me aprimorando em ReactJS, NextJS, TypeScript, HTML e SCSS.</li>
 </ul>
 
-
-## Alguns dados:
-
-<div align="start">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielrouss&layout=compact&langs_count=8&theme=vision-friendly-dark"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=gabrielrouss&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
-</div>
-
 ## Redes Sociais:
 
 <a href="https://www.discordapp.com/users/312955363148169216" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
